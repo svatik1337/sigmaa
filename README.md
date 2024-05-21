@@ -1,4 +1,5 @@
 <html>
+   <a href="https://www.youtube.com/channel/UCDKIlvPHl3-wM0QcxWO7IRA">мій ютуб</a>
     <h1 style="text-align:center">SB AREA </h1>
     <title>sigmooo creker</title>
    <body style="background:green;font-family:sans-serif;">
